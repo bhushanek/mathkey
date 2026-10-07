@@ -1,0 +1,14 @@
+D:\Codex\Maths Symbols\bin\Release\net10.0-windows\Math Symbols.exe
+D:\Codex\Maths Symbols\bin\Release\net10.0-windows\Math Symbols.deps.json
+D:\Codex\Maths Symbols\bin\Release\net10.0-windows\Math Symbols.runtimeconfig.json
+D:\Codex\Maths Symbols\bin\Release\net10.0-windows\Math Symbols.dll
+D:\Codex\Maths Symbols\bin\Release\net10.0-windows\Math Symbols.pdb
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\MathSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\MathSymbols.AssemblyInfoInputs.cache
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\MathSymbols.AssemblyInfo.cs
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\MathSymbols.csproj.CoreCompileInputs.cache
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\Math Symbols.dll
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\refint\Math Symbols.dll
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\Math Symbols.pdb
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\MathSymbols.genruntimeconfig.cache
+D:\Codex\Maths Symbols\obj\Release\net10.0-windows\ref\Math Symbols.dll

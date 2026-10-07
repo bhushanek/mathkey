@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b4960"/>
+      <stop offset="0.52" stop-color="#162b42"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.79" cy="0.23" r="0.55">
+      <stop offset="0" stop-color="#32c6d4" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#32c6d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mark" x1="0.15" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#cdeeff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect x="24" y="24" width="976" height="976" rx="232" fill="url(#background)"/>
+  <rect x="24" y="24" width="976" height="976" rx="232" fill="url(#glow)"/>
+  <rect x="36" y="36" width="952" height="952" rx="220" fill="none" stroke="#b5eafa" stroke-opacity="0.16" stroke-width="10"/>
+  <path d="M718 244H314L510 500 314 756H718V646H528L652 500 528 354H718Z" fill="#07101d" opacity="0.48" filter="url(#shadow)" transform="translate(0 18)"/>
+  <path d="M718 244H314L510 500 314 756H718V646H528L652 500 528 354H718Z" fill="url(#mark)"/>
+  <circle cx="804" cy="270" r="26" fill="#67e8df"/>
+  <circle cx="796" cy="262" r="7" fill="#e6fffc" fill-opacity="0.9"/>
+</svg>

@@ -1,0 +1,5 @@
+D:\Codex\Maths Symbols\finished-build\publish\MathKey.exe
+D:\Codex\Maths Symbols\finished-build\publish\MathKey.dll
+D:\Codex\Maths Symbols\finished-build\publish\MathKey.deps.json
+D:\Codex\Maths Symbols\finished-build\publish\MathKey.runtimeconfig.json
+D:\Codex\Maths Symbols\finished-build\publish\MathKey.pdb
