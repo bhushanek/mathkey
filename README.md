@@ -13,6 +13,12 @@ A lightweight Windows tray app that opens a searchable math symbol picker near t
 
 The catalog combines curated math vocabulary and aliases with 2,003 named entries from Unicode's math, technical, arrow, Greek math alphabet, and geometric symbol blocks. The grid only draws visible symbols, so the full catalog remains quick to search and scroll.
 
+## Download for Windows
+
+Windows downloads are posted on the [MathKey GitHub Releases page](https://github.com/bhushanek/mathkey/releases). The release package is prepared at `release/MathKey-win-x64.zip`; when creating a GitHub Release, upload this ZIP under **Assets**. Users can then download it from the latest release, extract it, and run `MathKey.exe`.
+
+The ZIP should contain the complete published app folder. Keep the companion files next to `MathKey.exe`; this lightweight framework-dependent build requires the .NET 10 Desktop Runtime.
+
 ## Build and run
 
 Install the .NET 10 SDK on Windows, then run these commands from this folder:
